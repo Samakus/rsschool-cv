@@ -15,8 +15,12 @@
 ---
 ## I know the basics of C/C++ little bit multithreaded programming 
 ---
+# Expirience:
 ## SORRY DON'T HAVE but i have [stepik](https://stepik.org/users/216025211)
 ---
-# few pakt courses and stepik
+# Education:
+
+## few pakt publish courses and stepik
 ---
+# English:
 ## A1 maybe A2 idk 
